@@ -1,5 +1,5 @@
 //* A motivating use case
-import { createOrder } from './fruit-market'
+import { createOrder } from './fruit-market' 
 //        ^?
 
 // type GetFirstArg<T> = any;
